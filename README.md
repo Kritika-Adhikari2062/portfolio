@@ -10,4 +10,4 @@ Hi! I'm **Kritika Adhikari**, a BCA student and Frontend Developer.
 
 ### 📬 Connect:
 * Biratnagar, Nepal
-* view project
+* https://github.com/Kritika-Adhikari2062/portfolio/blob/main/index.html
